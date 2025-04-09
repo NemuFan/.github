@@ -13,3 +13,5 @@
   - NemuFan
 
   - ネムファン
+
+  Don't stress about the many names. They're the same, essentially speaking.
